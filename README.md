@@ -14,6 +14,21 @@
 | `Файловая загрузка`   | Загрузка изображения по пути      |
 
 ## 🚀 Запуск
+Клонировать репозиторий:
+``` python
+git clone https://github.com/hateceo/ImageUtilsPractice.git
+cd ImageUtilsPractice
+```
+Создать и войти в Virtual Environment:
+``` python
+python -m venv venv
+.\venv\Scripts\activate
+```
+Установить зависимости:
+``` python
+pip install -r requirements.txt
+```
+Войти в программу:
 ```python
 python main.py
 ```
